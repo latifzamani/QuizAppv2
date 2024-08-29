@@ -1,0 +1,9 @@
+#progressbar{
+    height: 10px;
+}
+#progressbar::-webkit-progress-value{
+    background-color: #5dcde7;
+    color: rgb(19, 156, 229);
+    transition: all;
+    
+}
